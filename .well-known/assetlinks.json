@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.nims.mylon",
       "sha256_cert_fingerprints": [
-        "27:D3:E9:A7:B3:64:00:5B:27:94:45:B1:53:AE:81:14:56:76:82:67:35:0A:02:0E:F3:EE:63:9A:42:8F:6B:A1"
+        "27:D3:E9:A7:B3:64:00:5B:27:94:45:B1:53:AE:81:14:56:76:82:67:35:0A:02:0E:F3:EE:63:9A:42:8F:6B:A1",
+        "0E:4F:C5:F1:9A:EA:52:43:D3:7C:17:9F:FE:90:27:7F:11:E7:1A:CA:A7:93:19:EE:B2:D4:16:2C:2D:E1:05:5D"
       ]
     }
   }
